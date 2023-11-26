@@ -3,7 +3,7 @@
 setting up
 ```
 pip install opencv-python
-pip3 install glob2
+pip3 install glob2 
 pip install glob2
 ```
 run
