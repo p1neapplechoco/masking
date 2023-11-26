@@ -10,3 +10,4 @@ run
 ```
 python source.py
 ```
+results in ./datasets/mask/
