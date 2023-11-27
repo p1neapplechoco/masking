@@ -1,13 +1,19 @@
-## masking clothes from white background
+## masking clothes from white background (hcmus project w1)
 
-setting up
+you can do it like i did in this video or you can follow the instructions below.
+
+# setting up
+
 ```
-pip install opencv-python
-pip3 install glob2 
-pip install glob2
+git clone https://github.com/p1neapplechoco/masking.git
+cd masking
+pip install -r requirements.txt
 ```
-run
+
+# run
+
 ```
 python source.py
 ```
-results in ./datasets/mask/
+
+results will be stored in ./datasets/mask/
